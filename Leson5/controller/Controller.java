@@ -1,7 +1,7 @@
 /*group6380.Mozyakov; */
 
 
-import Leson5.model.Student;
+import model.Student;
 import model.Type;
 import service.DataService;
 import service.StudentGroupService;
